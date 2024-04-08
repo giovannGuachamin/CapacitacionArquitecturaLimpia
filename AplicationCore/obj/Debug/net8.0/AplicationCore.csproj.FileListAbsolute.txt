@@ -1,0 +1,11 @@
+C:\Users\gioim\source\repos\CapacitacionArquitecturaLimpia\AplicationCore\bin\Debug\net8.0\AplicationCore.deps.json
+C:\Users\gioim\source\repos\CapacitacionArquitecturaLimpia\AplicationCore\bin\Debug\net8.0\AplicationCore.dll
+C:\Users\gioim\source\repos\CapacitacionArquitecturaLimpia\AplicationCore\bin\Debug\net8.0\AplicationCore.pdb
+C:\Users\gioim\source\repos\CapacitacionArquitecturaLimpia\AplicationCore\obj\Debug\net8.0\AplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gioim\source\repos\CapacitacionArquitecturaLimpia\AplicationCore\obj\Debug\net8.0\AplicationCore.AssemblyInfoInputs.cache
+C:\Users\gioim\source\repos\CapacitacionArquitecturaLimpia\AplicationCore\obj\Debug\net8.0\AplicationCore.AssemblyInfo.cs
+C:\Users\gioim\source\repos\CapacitacionArquitecturaLimpia\AplicationCore\obj\Debug\net8.0\AplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\gioim\source\repos\CapacitacionArquitecturaLimpia\AplicationCore\obj\Debug\net8.0\AplicationCore.dll
+C:\Users\gioim\source\repos\CapacitacionArquitecturaLimpia\AplicationCore\obj\Debug\net8.0\refint\AplicationCore.dll
+C:\Users\gioim\source\repos\CapacitacionArquitecturaLimpia\AplicationCore\obj\Debug\net8.0\AplicationCore.pdb
+C:\Users\gioim\source\repos\CapacitacionArquitecturaLimpia\AplicationCore\obj\Debug\net8.0\ref\AplicationCore.dll
